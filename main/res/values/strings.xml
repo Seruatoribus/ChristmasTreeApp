@@ -1,0 +1,4 @@
+<resources>
+    <bool name="lightsOn">false</bool>
+    <string name="app_name">Dr. Wang\'s Christmas Tree</string>
+</resources>
